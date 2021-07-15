@@ -4,7 +4,7 @@ I'm Ayaan, a typical 11 y/o who's addicted to computers and programming, maybe a
 - 🔭 I’m currently *volunteering* doing Web Development using the **Django** web framework and **mentoring** people learning to code on Exercism.
 - 🌱 I'm mainly learning **JavaScript** and also learning **Machine Learning** on the side!
 - 👯 I’m looking to collaborate on any cool, open source project :D
-- 😄 Pronouns: He, Him, Weirdo
+- 😄 Pronouns: He, Him
 
 I love programming all sorts of projects, and also teaching programming on my [YouTube channel](https://www.youtube.com/c/JustProgram)!
 
