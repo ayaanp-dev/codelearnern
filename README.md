@@ -1,7 +1,7 @@
 # What's up 👋!
 I'm Ayaan, a typical 11 y/o who's addicted to computers and programming, maybe a little too much 😅. I'm also a professional at procrastinating!
 
-- 🔭 I’m currently *volunteering* doing Web Development using the **Django** web framework and **mentoring** people learning to code on Exercism.
+- 🔭 I’m currently *volunteering* doing Web Development using the **Django** web framework at DemocracyLab and **mentoring** people learning to code on Exercism.
 - 🌱 I'm mainly learning **JavaScript** and also learning **Machine Learning** on the side!
 - 👯 I’m looking to collaborate on any cool, open source project, if it uses Python :D 
 - 😄 Pronouns: He, Him
